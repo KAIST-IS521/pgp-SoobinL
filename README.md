@@ -1,15 +1,6 @@
-# Ethical Conduct Agreement for IS-521
+# To Sign the Form
 
-I hereby consent to the terms in this Agreement.
-
-1. I agree to not use the hacking knowledge and skills gained in the
-course of study to attack other systems or networks, and I agree to
-apply such knowledge solely for lawful purposes.
-
-2. I understand that the release of confidential information may be
-detrimental to national security and to the interests of KAIST, and I
-agree to not divulge any confidential information obtained during my
-course of study.
-
-##### YYYY-MM-DD
-##### Signer: YOUR NAME
+1. Copy the Agreement.md file to a directory.
+1. Modify the file and digitally sign the file, which will produce a file `Agreement.md.gpg`.
+1. You should copy both the md file and the md.gpg file to your own repository,
+   and make a commit.
