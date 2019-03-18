@@ -11,5 +11,5 @@ detrimental to national security and to the interests of KAIST, and I
 agree to not divulge any confidential information obtained during my
 course of study.
 
-##### YYYY-MM-DD
-##### Signer: YOUR NAME
+##### 2019-03-18
+##### Signer: Soobin Lee
